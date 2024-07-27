@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyApp1</string>
+    <string name="btn1">CREAR CUENTA</string>
+    <string name="btn2">BOTON2</string>
+    <string name="t1">NOMBRE DE LA APLICACION</string>
+
+    // Pantalla Login
+
+    <string name="logo">INICIAR SESION</string>
+    <string name="btn_email">INGRESAR CORREO</string>
+    <string name="btn_pass">INGRESAR CONTRASEÑA</string>
+    <string name="btnlogin">INGRESAR</string>
+    <string name="btnloginfa">INGRESAR FACEBOOCK</string>
+    <string name="btnlogingo">INGRESAR GOOGLE</string>
+
+</resources>
